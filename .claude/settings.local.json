@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruflo init:*)",
+      "Bash(claude-flow init:*)",
+      "Bash(npx claude-flow:*)",
+      "Bash(npx:*)"
+    ]
+  }
+}
